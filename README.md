@@ -1,22 +1,18 @@
-# Principles of Data Analytics Class Assignment: Exploring the Iris Dataset
+# About this project
+Learning data analysis and machine learning with the popular 'Iris' dataset
 
-### Project Description
+In this project, I use the 'Iris' dataset to learn some machine learning and data analytics with Python.
 
-In this project, I load in the Iris dataset using the machine learning package scikitlearn. The package has a function that allows you to load in various datasets in order to practice your data analysis and machine learning skills on. The Iris dataset consists of measurements taken of different species of the Iris plant.
+## Table of contents
 
-After loading in the Iris dataset, I use the pandas package to investigate it at a high level by checking the dataset's shape, type, and printing the first and last 5 rows. I then move on to generating some high level statistical summaries of the data, using the numpy package to calculate the mean, median, minimum and maximum values for each feature within the dataset.
+## Installation
+To follow along and learn as I did, ensure that you have the following software installed on your machine:
+- git
+- anaconda
 
-Afer that I visualise the features using histograms and box plots, and draw some conclusions about the data based on these visualisations.
+## Usage
+Once you have the necessary software installed, open the jupyter notebook file and follow along by playing each code cell individually and in order. I explain what each code cell does, and reflect on the results in the markdown cells above each code cell. I've also included plenty of comments in the code cells to explain what each block of code does. I've included references to where I learnt how to do this in both the markdown cells and the code cells.
 
-### How to use this project
-To run this code, you will need to have python 3.[] installed, as well as the following specific packages and modules:
-  - scklearn
-  - numpy
-  - pandas
-  - matplotlib
+You will also find a full list of references below corresponding to specific sections of my code.
 
-This project will help you to learn basic data manipulation and analysis. Initially, I'd suggest reading through the tasks here [LINK] and attempting each one. If you get stuck, you can refer to my solutions [HERE]. For each task I have listed exactly which resources I used and found helpful. This can all be found [HERE].
-
-###
-
-by Fergus McTiernan
+## Documentation and refereces
