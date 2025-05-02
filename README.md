@@ -1,9 +1,11 @@
 # About this project
-Learning data analysis and machine learning with the popular 'Iris' dataset
-
+###Learning data analysis and machine learning with the popular 'Iris' dataset
 In this project, I use the 'Iris' dataset to learn some machine learning and data analytics with Python.
 
 ## Table of contents
+- Installation
+- Usage
+- References
 
 ## Installation
 To follow along and learn as I did, ensure that you have the following software installed on your machine:
