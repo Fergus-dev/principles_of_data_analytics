@@ -1,6 +1,8 @@
 # About this project
 ###Learning data analysis and machine learning with the popular 'Iris' dataset
-In this project, I use the 'Iris' dataset to learn some machine learning and data analytics with Python.
+In this project, I use the popular 'Iris' dataset to learn some machine learning and data analytics with Python.
+
+The Iris dataset is a dataset consisting of 150 measurements of four different features across three species of Iris flower.
 
 ## Table of contents
 - Installation
@@ -28,4 +30,4 @@ Once you have the tasks.ipynb file open in VS Code, ensure all outputs are clear
 
 You will also find a full list of references below corresponding to specific sections of my code.
 
-## Documentation and refereces
+## Documentation and references
