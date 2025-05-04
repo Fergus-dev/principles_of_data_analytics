@@ -20,6 +20,9 @@ Once you have the necessary software installed, download this repository to your
 
 You can download the repository as a .zip folder and extract it, or if you have [SSH](https://docs.github.com/en/authentication/connecting-to-github-with-ssh) set up on your machine, you can clone it directly using the command line.
 
+![image](https://github.com/user-attachments/assets/f48ee420-1aff-4fb1-a3a0-f14df7c01d4b)
+
+
 ## Usage
 Once you have the tasks.ipynb file open in VS Code, ensure all outputs are cleared as pictured below, and then follow along by playing each code cell individually and in order. I explain what each code cell does in the markdown cells that precede it. I've also included plenty of comments in the code cells to explain what each block of code does. I've included references to where I learnt how to do this in both the markdown cells and the code cells.
 
